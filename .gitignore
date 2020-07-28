@@ -1,0 +1,7 @@
+sample/
+excel/
+.DS_Store
+testdata/
+build/
+*.xlsx
+.vscode/
